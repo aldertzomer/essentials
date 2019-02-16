@@ -19,3 +19,5 @@ We successfully applied ESSENTIALS to in-house and published Tn-seq, TraDIS and 
 Essentials at CMBI
 
 A working version of the ESSENTIALS pipeline can be accessed at http://bamics2.cmbi.ru.nl/websoftware/essentials/essentials_start.php
+
+-> First time I wrote perl code, 7 years ago - don't judge. 
