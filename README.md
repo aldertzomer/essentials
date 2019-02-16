@@ -1,6 +1,7 @@
 # essentials
 
 ESSENTIALS: Software for rapid analysis of transposon insertion sequencing data
+
 Aldert Zomer1,2, Peter Burghout1, Hester Bootsma1, Peter WM Hermans1 and Sacha van Hijum2,3,4,5
 
 1 Laboratory of Pediatric Infectious Diseases, Radboud University Nijmegen Medical Centre, P.O. Box 9101, 6500 HB, Nijmegen, The Netherlands.
